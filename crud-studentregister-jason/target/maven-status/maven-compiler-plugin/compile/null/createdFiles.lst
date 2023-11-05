@@ -1,0 +1,3 @@
+org\StudentRegister\repository\StudentRepo.class
+org\StudentRegister\entity\StudentRegister.class
+org\StudentRegister\resource\StudentRegisterResource.class
