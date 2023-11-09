@@ -1,0 +1,4 @@
+org\hibernateorm\repository\StudentRegisterRepository.class
+META-INF\panache-archive.marker
+org\hibernateorm\entity\StudentRegister.class
+org\hibernateorm\resource\StudentRegisterResource.class
