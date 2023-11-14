@@ -1,0 +1,5 @@
+org\student\repository\StudentRegisterRepository.class
+META-INF\panache-archive.marker
+org\student\resource\StudentRegisterResource.class
+org\student\entity\College.class
+org\student\entity\StudentRegister.class
